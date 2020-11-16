@@ -1,0 +1,36 @@
+- Quality of code makes you more agile. Better code quality makes it easy to refactor existing code.
+- The quality of a code is inversely proportional to amount of effort it takes to understand
+- A Good quality code creates lower technical debt.
+- Schedule time to lower technical debt
+    - Fix code problems immediately
+    - Writing bad code is sabotage
+    - Plan out development to write good code
+- Focus on higher cohesion
+    - Narrow, focused, does only one thing well
+    - Think about the frequency of change
+- Favor loose coupling
+    - Tight coupling makes code hard to extends and hard to test
+- Program with intention
+    - No randomness/programming with desperation
+    - Code should reveal intention and pass tests, no duplication
+- Avoid primitive obsession
+    - Code is packed with accidental complexity
+- Make code easier to understand
+    - It should be simple and easy to read
+- Clear code is better than clever code
+    - Simplicity, clarity, brevity, humanity
+    - Write code for humans not for the machine that compiles it
+- Write comments to know what your code does when you come back to it later
+    - Don't write comments to cover up bad code
+    - Don't write unnecessary comments
+    - Give good names to your variable
+    - Comment to communicate
+- Avoid long methods - apply SLAP
+    - The length of a method should depend on the levels of abstraction in the method
+    - Single
+    - Level of
+    - Abstraction
+    - Principle
+- Variable names represent abstractions
+- Do tactical code reviews
+    - Write good code
